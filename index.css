@@ -1,0 +1,38 @@
+.p-2 text {
+  height: 40px;
+}
+
+.main-content {
+  background-color: #EEEEE;
+  text-indent: auto;
+  font-size: 20px;
+  text-align: justify;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.title {
+  text-indent: auto;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.morphine {
+  width: 35%;
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  float: right;
+  padding-right: 5px;
+  padding-left: 10px;
+}
+.sidebar {
+  background-color: #999999;
+  height: auto;
+}
+.footer {
+  height: 5px;
+}

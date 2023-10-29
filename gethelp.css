@@ -1,0 +1,19 @@
+.p-2 text {
+  height: 40px;
+}
+
+.main-content {
+  background-color: #EEEEE;
+  min-height: 500px;
+  text-indent: auto;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.sidebar {
+  background-color: #999999;
+  min-height: 500px;
+}
+.footer {
+  height: 5px;
+}

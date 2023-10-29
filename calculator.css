@@ -1,0 +1,27 @@
+.box {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 1px solid blue;
+  min-height: 50px;
+  font-size: 1rem;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.main-content {
+  background-color: #EEEEE;
+  min-height: 500px;
+  text-indent: auto;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.sidebar {
+  background-color: #999999;
+  min-height: 500px;
+}
+
+.footer {
+  height: 5px;
+}
