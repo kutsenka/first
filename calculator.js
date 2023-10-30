@@ -15,3 +15,8 @@ document.getElementById("price1").onclick = function (event) {
   let result1 = DP * c * (b / 100);
   document.getElementById("result1").innerHTML = result1.toFixed(0);
 };
+
+document.getElementById("reset-btn").onclick = function (event) {
+  var b = document.getElementById("ammount");
+  b.value = b.defaultValue;
+};
