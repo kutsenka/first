@@ -87,7 +87,8 @@
               <div class="row">
                 <div class="col-9">Ammount:</div>
                 <div class="col-4">
-                  <input id="ammount" class="form-control" />
+                  <input type="text" id="ammount" oninput="this.value = this.value.replace(/[^0-9]/g, '')" class="form-control" />
+                  
                 </div>
                 <div class="col-4">
                   <select id="au" class="form-select">
